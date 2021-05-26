@@ -1,0 +1,18 @@
+{
+    "development": {
+        "username": "",
+        "password": "",
+        "database": "xferdb",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+
+    "production": {
+        "username": "",
+        "password": "",
+        "database": "xferdb",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+
+}

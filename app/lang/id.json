@@ -1,0 +1,31 @@
+[
+    {"success": "Success"},
+    {"err001": "Oops sorry, something went wrong!"},
+
+    {"tst001": "Invalid Test ID."},
+    {"tst002": "Required Test Name."},
+    {"tst003": "Success Delete Test ID: %s."},
+
+    {"dbins001": "Insert Query Error! Data should be an object."},
+    {"dbins002": "Insert Query Error! Please provide data."},
+
+    {"dbupd001": "Update Query Error! Data should be an object."},
+    {"dbupd002": "Update Query Error! Please provide where condition."},
+    {"dbupd003": "Update Query Error! Please provide cond & bind."},
+    {"dbupd004": "Update Query Error! Please provide where condition."},
+    {"dbupd005": "Update Query Error! Please provide data."},
+
+    {"dbdel001": "Delete Query Error! Please provide where condition."},
+    {"dbdel002": "Delete Query Error! Please provide cond & bind."},
+    {"dbdel003": "Delete Query Error! Please provide where condition."},
+
+    {"api001": "Data tidak tersedia, silahkan coba lagi."},
+    {"api002": "Data Date dibutuhkan."},
+    {"api003": "Data tidak ditemukan."},
+    {"api004": "Parameter Start Date dibutuhkan."},
+    {"api005": "Parameter Start Date tidak valid."},
+    {"api006": "Parameter Symbol Date dibutuhkan."},
+    {"api007": "Data Input dibutuhkan."},
+    {"api008": "Delete Query Error! Please provide where condition."}
+
+]

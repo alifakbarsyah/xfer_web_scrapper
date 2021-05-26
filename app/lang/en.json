@@ -1,0 +1,37 @@
+[
+    {"success": "Success"},
+    {"err001": "Oops sorry, something went wrong!"},
+
+    {"tst001": "Invalid Test ID."},
+    {"tst002": "Required Test Name."},
+    {"tst003": "Success Delete Test ID: %s."},
+
+    {"dbins001": "Insert Query Error! Data should be an object."},
+    {"dbins002": "Insert Query Error! Please provide data."},
+
+    {"dbupd001": "Update Query Error! Data should be an object."},
+    {"dbupd002": "Update Query Error! Please provide where condition."},
+    {"dbupd003": "Update Query Error! Please provide cond & bind."},
+    {"dbupd004": "Update Query Error! Please provide where condition."},
+    {"dbupd005": "Update Query Error! Please provide data."},
+
+    {"dbdel001": "Delete Query Error! Please provide where condition."},
+    {"dbdel002": "Delete Query Error! Please provide cond & bind."},
+    {"dbdel003": "Delete Query Error! Please provide where condition."},
+
+    {"api001": "Data is unavailable, please try again."},
+    {"api002": "Date data is required."},
+    {"api003": "Data not found."},
+    {"api004": "Start Date parameter is required."},
+    {"api005": "Start Date parameter is invalid."},
+    {"api006": "Symbol parameter is required."},
+    {"api007": "Input Data is required."},
+    {"api008": "Symbol Data is required."},
+    {"api009": "E-rate Jual Data is required."},
+    {"api010": "E-rate Beli Data is required."},
+    {"api011": "TT Counter Jual Data is required."},
+    {"api012": "TT Counter Beli Data is required."},
+    {"api013": "Bank Notes Jual Data is required."},
+    {"api014": "Bank Notes Beli Data is required."},
+    {"api015": "Data is already exist."}
+]

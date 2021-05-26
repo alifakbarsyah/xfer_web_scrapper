@@ -1,0 +1,48 @@
+{
+  "name": "xfer-scrapper-api",
+  "version": "1.0.0",
+  "description": "Xfer web scrapper API",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/libs/*.spec.js",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "disposable-email-domains": "^1.0.45",
+    "dotenv": "^6.1.0",
+    "eslint": "^5.16.0",
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.0",
+    "is-base64": "^1.0.0",
+    "is-running": "^2.1.0",
+    "moment": "^2.22.2",
+    "mysql2": "^1.6.1",
+    "node-fetch": "^2.6.1",
+    "node-forge": "^0.10.0",
+    "npid": "^0.4.0",
+    "number_format-php": "^1.0.9",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "sequelize": "^5.0.0",
+    "uuid": "^3.3.2",
+    "validator": "^10.7.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "mocha": "^5.2.0",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.18.5"
+  }
+}
